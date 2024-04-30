@@ -16,7 +16,7 @@ class _MyHomePageState extends State<MyHomePage> {
       backgroundColor: Color(0xFFF9F5F5),
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: const Text('Find Your Health Concern'),
+        title: const Text('Find Your Health Concern Person '),
       ),
       body: SingleChildScrollView(
         child: Column(
